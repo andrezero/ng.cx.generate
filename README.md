@@ -4,6 +4,10 @@
 
 > AngularJS service, provides methods to generate uuid, random strings and sequences.
 
+## WARNING: This code is not maintained
+
+Very obvious - but due - WARNING. Back in 2004 my team at [EF Class](https://class.ef.com/) was embarking in the great adventure of Open Source, making components like this one available to everyone. Time flies, the world revolves, yada yada. Good memories!
+
 ## Getting Started
 
 Add **ng.cx.generate** to you project.
